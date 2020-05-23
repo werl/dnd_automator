@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/dnd_automator
+dnd_automator.so
+dnd_automator.dylib
+dnd_automator.dll
+dnd_automator.a
+dnd_automator.lib
+dnd_automator-test-*
+*.exe
+*.o
+*.obj
+*.lst
