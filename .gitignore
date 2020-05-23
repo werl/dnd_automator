@@ -13,3 +13,6 @@ dnd_automator-test-*
 *.o
 *.obj
 *.lst
+*.iml
+.idea
+dub.selections.json
