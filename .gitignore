@@ -16,3 +16,4 @@ dnd_automator-test-*
 *.iml
 .idea
 dub.selections.json
+classes
